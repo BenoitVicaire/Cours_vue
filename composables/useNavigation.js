@@ -25,6 +25,7 @@ export const useNavigation = () => {
     { path: "/Exercices/lifeCycle", title: "Life Cycle + API" },
     { path: "/Exercices/crachTest", title: "CrachTest" },
     { path: "/Exercices/props", title: "Props" },
+    { path: "/Exercices/exercicesFirebase", title: "Exercices Firebase" },
   ];
 
   const tps = [
