@@ -1,0 +1,12 @@
+allowBuilds:
+  esbuild: true
+  '@parcel/watcher': true
+  unrs-resolver: true
+  '@tailwindcss/oxide': true
+  better-sqlite3: true
+onlyBuiltDependencies:
+  - esbuild
+  - '@parcel/watcher'
+  - unrs-resolver
+  - '@tailwindcss/oxide'
+  - better-sqlite3
